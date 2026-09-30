@@ -1,0 +1,24 @@
+{
+  "name": "simuladorae2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosarioucp/SimulaciondeProcesosyMemoria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rosarioucp/SimulaciondeProcesosyMemoria/issues"
+  },
+  "homepage": "https://github.com/rosarioucp/SimulaciondeProcesosyMemoria#readme",
+  "devDependencies": {
+    "vitest": "^5.0.3"
+  }
+}
